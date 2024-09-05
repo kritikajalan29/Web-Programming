@@ -1,0 +1,42 @@
+h1 {
+    font-size: 100px; font-family: fantasy; text-align: center;color: rgb(220, 83, 33);
+    margin-bottom: 0%; font-weight:bold;
+}
+
+.nav_bar{
+    text-align: center;
+    padding: none;
+    margin: 0;
+}
+
+.nav_button{
+    color: rgb(5, 48, 85);
+    text-decoration: none;
+    padding: 2%;
+    font-size: 30px;
+}
+
+.founding_statement{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(5, 48, 85);
+}
+
+.Background img {
+    float: left;
+    /* size: 1%; */
+    /* size: 1%; */
+    width: 10%;
+    height: auto;
+    /* height: 42px; */
+}
+
+body{
+    background-color: blanchedalmond;
+    background-image: url("background-body.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+    margin-top: 0;
+                
+}
